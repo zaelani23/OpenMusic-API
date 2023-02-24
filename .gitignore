@@ -1,0 +1,5 @@
+.env
+.prod.env
+OpenMusic-API.zip
+.idea
+node_modules
